@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jayant/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/jayant/Downloads/Ex_Files_Prog_IoT_Android/Exercise Files/BluetoothLeGatt/BluetoothLeGattSample/build/intermediates/pre-dexed/debug/support-v4-19.1.0-34f7fbc1df82bb2b491879d155df3e93fd3ade87.jar" />
+    </item>
+    <item
+        jar="/Users/jayant/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v13/19.1.0/support-v13-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="6b852a232f642c75a7fdfc7212b841b8c8f8959c">
+        <dex dex="/Users/jayant/Downloads/Ex_Files_Prog_IoT_Android/Exercise Files/BluetoothLeGatt/BluetoothLeGattSample/build/intermediates/pre-dexed/debug/support-v13-19.1.0-c84ee758829c240440be61b28e40e74299f7c028.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/lehmm007/Documents/Lynda-Android-IoT-ExFiles/Exercise%20Files/BluetoothLeGatt/BluetoothLeGattSample/src/main/res/values-v11/template-styles.xml -->
+    <eat-comment/>
+    <style name="Theme.Base" parent="android:Theme.Holo.Light"/>
+</resources>
